@@ -10,7 +10,7 @@ title: Computational Cognition Lab
 email: cognition@ouc.ac.cy
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Computational Cognition Lab.
-baseurl: "https://chrodos.github.io/cognitionlab/"
+baseurl: "https://chrodos.github.io/cognitionlab"
 url: ""
 
 include:

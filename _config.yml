@@ -10,8 +10,8 @@ title: Computational Cognition Lab
 email: cognition@ouc.ac.cy
 description: > # this means to ignore newlines until "baseurl:"
   Website of the AllanLab.
-baseurl: ""
-url: ""
+baseurl: "https://chrodos.github.io/cognitionlab/"
+url: "https://chrodos.github.io/cognitionlab/"
 
 include:
   - .htaccess

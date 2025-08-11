@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Research"
+title: "CCLab - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "CCLab -- Research"
 sitemap: false
 permalink: /research/
 ---

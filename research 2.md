@@ -1,5 +1,5 @@
 ---
-title: "CCLab - Rh"
+title: "CCLab - Research"
 layout: textlay
 excerpt: "CCLab -- Research"
 sitemap: false

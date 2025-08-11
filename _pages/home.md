@@ -1,12 +1,12 @@
 ---
-title: "Allan Lab - Home"
+title: "CCLab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Computational Cognition Lab at Open University of Cyprus."
 sitemap: false
 permalink: /
 ---
 
-**News: Our group moved to the University of Munich (LMU)!** Join us! 
+<!-- **News: Our group moved to the University of Munich (LMU)!** Join us! -->
 
 We are a dynamic research group at [LMU physics](https://www.physik.lmu.de/en/index.html) and at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl/). 
 

@@ -66,7 +66,7 @@ We seek to understand **cognitive processes** often associated with individual o
 <figure class="fifth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_OUC_tr_EN.png" style="width: 130px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CAIR.png" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CYENS.png" style="width: 130px; margin-left: 5px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CYENS.png" style="width: 130px; margin-right: 5px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_WeNet.png" style="width: 130px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_MariSense.png" style="width: 130px">
 </figure>

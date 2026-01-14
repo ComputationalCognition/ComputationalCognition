@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "CCLab -- Publications."
+excerpt: "CCLab -- News."
 sitemap: false
 permalink: /allnews.html
 ---

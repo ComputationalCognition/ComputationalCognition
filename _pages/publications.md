@@ -9,8 +9,10 @@ permalink: /publications/
 
 # Publications
 
+
 A comprehensive list of our papers is available on [ResearchGate](https://www.researchgate.net/lab/Computational-Cognition-Lab-Loizos-Michael)
 <br><br><br>
+
 
 <!-- 
 ## Group highlights

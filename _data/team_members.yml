@@ -2,44 +2,47 @@
   photo: Loizos.jpeg
   info: Professor, Director of Computational Cognition Lab
   email: Loizos@ouc.ac.cy
-  number_educ: 4
+  number_educ: 5
   education1: visiting professor, University of Cyprus
   education2: M.Sc. & Ph.D. in Computer Science (Artificial Intelligence) under the supervision of <a href="https://people.seas.harvard.edu/~valiant/">Leslie Valiant</a>, Harvard University  
   education3: B.Sc. in Computer Science with a minor degree in Mathematics, University of Cyprus
   education4: Republic of Cyprus Presidential Award 2002
+  education5: [details](https://www.ouc.ac.cy/index.php/en/profiles/loizos-michael)
 
-#- name: Jiasen Niu
-#  photo: Jiasen.png
-#  info: Leader Leiden Branch, started Oct 2020
-#  email: niu@physics.leidenuniv.nl
-#  number_educ: 2
-#  education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-#  education2: BSc Jilin University
+- name: Christodoulos Ioannou 
+  photo: ChristodoulosIoannou.jpg
+  info: PhD Student
+  email: christodoulos.ioannou@st.ouc.ac.cy
+  number_educ: 2
+  education1: MSc 
+  education2: BSc 
 
-#- name: Yudai Sato
-#  photo: Sato.jpeg
-#  info: Postdoc, started September 2023
-#  email: jwlee0421@postech.ac.kr
-#  number_educ: 2
-#  education1: PhD with [Yukio Hasegawa](https://www.issp.u-tokyo.ac.jp/maincontents/organization/labs/hasegawa_group_en.html) at the University of Tokyo
-#  education2: Master, University of Tokyo
+- name: Marios Thoma
+  photo: MariosThoma_photo.jpg
+  info: PhD Student
+  email: marios.thoma@st.ouc.ac.cy
+  number_educ: 4
+  education1: MSc
+  education2: BSc
+  education3: Research Areas: Machine Learning, Neural-Symbolic AI, Evolutionary Biology
+  education4: (https://github.com/msthoma) 
 
-#- name: Premakumar Yanda
-#  photo: Yanda.png
-#  info: Postdoc, since March 2025
-#  email: benschop@physics.leidenuniv.nl
-#  number_educ: 2
-#  education1: PhD, JNCASR, with A. Sundaresan
-#  education2: MSc, Andhra University
+- name: Vassilis Markos
+  photo: VassilisMarkos.jpg
+  info: PhD Student
+  email: vasileios.markos@st.ouc.ac.cy
+  number_educ: 2
+  education1: MSc
+  education2: BSc
 
-#- name: Stefan Rudel
-#  photo: Stefan.png
-#  info: Postdoc, shared with the [Kloß lab](https://kloss.cup.uni-muenchen.de/dr-simon-kloss/)
-#  email: benschop@physics.leidenuniv.nl
-#  number_educ: 3
-#  education1: Postdoc LMU Munich, with [Wolfgang Schnick](https://www.cup.uni-muenchen.de/ac/schnick/prof-dr-w-schnick/)
-#  education2: PhD TUM and University of Marburg with [Florian Kraus](https://www.uni-marburg.de/de/fb15/arbeitsgruppen/anorganische_chemie/ag-kraus)
-#  education3: MSc TUM
+- name: Phiniki Stouppa
+  photo: PhinikiStouppa.jpg
+  info: 
+  email: benschop@physics.leidenuniv.nl
+  number_educ: 3
+  education1: Postdoc LMU Munich, with [Wolfgang Schnick](https://www.cup.uni-muenchen.de/ac/schnick/prof-dr-w-schnick/)
+  education2: PhD TUM and University of Marburg with [Florian Kraus](https://www.uni-marburg.de/de/fb15/arbeitsgruppen/anorganische_chemie/ag-kraus)
+  education3: MSc TUM
 
 #- name: "This could be you !"
 #  photo: rock.jpg

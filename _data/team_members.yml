@@ -4,7 +4,7 @@
   email: Loizos@ouc.ac.cy
   number_educ: 5
   education1: visiting professor, University of Cyprus
-  education2: M.Sc. & Ph.D. in Computer Science (Artificial Intelligence) under the supervision of <a href="https://people.seas.harvard.edu/~valiant/">Leslie Valiant</a>, Harvard University  
+  education2: M.Sc. & Ph.D. in Computer Science (Artificial Intelligence) under the supervision of [Leslie Valiant](https://people.seas.harvard.edu/~valiant/), Harvard University  
   education3: B.Sc. in Computer Science with a minor degree in Mathematics, University of Cyprus
   education4: Republic of Cyprus Presidential Award 2002
   education5: [details](https://www.ouc.ac.cy/index.php/en/profiles/loizos-michael)
@@ -14,35 +14,36 @@
   info: PhD Student
   email: christodoulos.ioannou@st.ouc.ac.cy
   number_educ: 2
-  education1: MSc 
-  education2: BSc 
+  education1: M.Sc. 
+  education2: B.Sc. 
 
 - name: Marios Thoma
   photo: MariosThoma_photo.jpg
   info: PhD Student
   email: marios.thoma@st.ouc.ac.cy
   number_educ: 4
-  education1: MSc
-  education2: BSc
+  education1: M.Sc.
+  education2: B.Sc.
   education3: Research Areas: Machine Learning, Neural-Symbolic AI, Evolutionary Biology
-  education4: (https://github.com/msthoma) 
+  education4: [details](https://github.com/msthoma) 
 
 - name: Vassilis Markos
   photo: VassilisMarkos.jpg
   info: PhD Student
   email: vasileios.markos@st.ouc.ac.cy
   number_educ: 2
-  education1: MSc
-  education2: BSc
+  education1: M.Sc.
+  education2: B.Sc.
 
 - name: Phiniki Stouppa
   photo: PhinikiStouppa.jpg
-  info: 
-  email: benschop@physics.leidenuniv.nl
+  info: Assistant project manager
+  email: pstouppa@ouc.ac.cy
   number_educ: 3
-  education1: Postdoc LMU Munich, with [Wolfgang Schnick](https://www.cup.uni-muenchen.de/ac/schnick/prof-dr-w-schnick/)
-  education2: PhD TUM and University of Marburg with [Florian Kraus](https://www.uni-marburg.de/de/fb15/arbeitsgruppen/anorganische_chemie/ag-kraus)
-  education3: MSc TUM
+  education1: Ph.D., University of Bern
+  education2: M.Sc. in Computational Logic, Dresden University of Technology
+  education3: B.Sc. in Computer Science, University of Cyprus
+
 
 #- name: "This could be you !"
 #  photo: rock.jpg

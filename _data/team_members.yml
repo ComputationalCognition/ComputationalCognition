@@ -20,6 +20,16 @@
   education3: Research Areas - Knowledge Representation, Reasoning, Argumentation, Explainability and Natural Language understanding
   education4:  <a href="https://www.researchgate.net/profile/Christodoulos-Ioannou/research" target="_blank">Publications</a>
 
+- name: Phiniki Stouppa
+  photo: PhinikiStouppa.jpg
+  info: Assistant project manager
+  email: phiniki.stouppa@ouc.ac.cy  
+  number_educ: 4
+  education1: Ph.D., University of Bern
+  education2: M.Sc. in Computational Logic, Dresden University of Technology
+  education3: B.Sc. in Computer Science, University of Cyprus
+  education4: <a href="https://www.researchgate.net/profile/Phiniki-Stouppa/research" target="_blank">Publications</a>
+  
 - name: <a href="https://github.com/msthoma"  target="_blank">Marios Thoma</a>
   photo: MariosThoma_photo.jpg
   info: PhD Student
@@ -40,13 +50,5 @@
   education3: B.Sc. in Mathematics, National and Kapodistrian University of Athens
   education4: <a href="https://www.researchgate.net/profile/Vasileios_Markos/research" target="_blank">Publications</a>
 
-- name: Phiniki Stouppa
-  photo: PhinikiStouppa.jpg
-  info: Assistant project manager
-  email: phiniki.stouppa@ouc.ac.cy  
-  number_educ: 4
-  education1: Ph.D., University of Bern
-  education2: M.Sc. in Computational Logic, Dresden University of Technology
-  education3: B.Sc. in Computer Science, University of Cyprus
-  education4: <a href="https://www.researchgate.net/profile/Phiniki-Stouppa/research" target="_blank">Publications</a>
+
 

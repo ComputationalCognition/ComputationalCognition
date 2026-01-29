@@ -10,7 +10,7 @@
   education4: B.Sc. in Computer Science with a minor degree in Mathematics, University of Cyprus
   education5: <!-- publications -->
 
-- name: <a href>="https://ttooulis.github.io/">Christodoulos Ioannou</a> 
+- name: <a href="https://ttooulis.github.io/">Christodoulos Ioannou</a> 
   photo: ChristodoulosIoannou.jpg
   info: PhD Student
   email: christodoulos.ioannou@st.ouc.ac.cy
@@ -18,13 +18,14 @@
   education1: M.Sc. in Advanced Computer Science (Specialisation in Formal Methods), University of Manchester
   education2: B.Sc. in Informatics, Athens University of Economics and Business
 
-- name: Yudai Sato
-  photo: Sato.jpeg
-  info: Postdoc, started September 2023
-  email: jwlee0421@postech.ac.kr
-  number_educ: 2
-  education1: PhD with [Yukio Hasegawa](https://www.issp.u-tokyo.ac.jp/maincontents/organization/labs/hasegawa_group_en.html) at the University of Tokyo
-  education2: Master, University of Tokyo
+- name: <a href="https://github.com/msthoma">Marios Thoma</a>
+  photo: MariosThoma_photo.jpg
+  info: PhD Student
+  email: marios.thoma@st.ouc.ac.cy
+  number_educ: 3
+  education1: Machine Learning, Neural-Symbolic AI, Evolutionary Biology
+  education2: M.Sc. University
+  education3: B.Sc. University
 
 - name: Thomas Gozlinski
   photo: Thomas.jpg

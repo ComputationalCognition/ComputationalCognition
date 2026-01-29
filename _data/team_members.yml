@@ -1,3 +1,15 @@
+
+- name: Loizos Michael
+  photo: Loizos.jpeg
+  info: Professor, Director of Computational Cognition Lab
+  email: loizos@ouc.ac.cy
+  number_educ: 5
+  education1: BSc, Leiden University
+  education2: MSc, LMU Munich, with [Christian Pfleiderer](https://www.professoren.tum.de/en/pfleiderer-christian)
+  education3: d
+  education4: d
+  education5: d
+
 - name: Jiasen Niu
   photo: Jiasen.png
   info: Leader Leiden Branch, started Oct 2020

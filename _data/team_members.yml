@@ -17,8 +17,8 @@
   number_educ: 4
   education1: M.Sc. in Advanced Computer Science (Specialisation in Formal Methods), University of Manchester
   education2: B.Sc. in Informatics, Athens University of Economics and Business
-  education3: <a href="https://www.researchgate.net/profile/Christodoulos-Ioannou/research" target="_blank">Publications</a>
-  education4: Research Areas - Knowledge Representation, Reasoning, Argumentation, Explainability and Natural Language understanding
+  education3: Research Areas - Knowledge Representation, Reasoning, Argumentation, Explainability and Natural Language understanding
+  education4:  <a href="https://www.researchgate.net/profile/Christodoulos-Ioannou/research" target="_blank">Publications</a>
 
 - name: <a href="https://github.com/msthoma"  target="_blank">Marios Thoma</a>
   photo: MariosThoma_photo.jpg

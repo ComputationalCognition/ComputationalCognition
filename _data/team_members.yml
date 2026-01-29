@@ -1,14 +1,3 @@
-- name: Loizos Michael
-  photo: Loizos.jpeg
-  info: Professor, Director of Computational Cognition Lab
-  email: loizos@ouc.ac.cy
-  number_educ: 5
-  education1: visiting professor, University of Cyprus
-  education2: M.Sc. & Ph.D. in Computer Science (Artificial Intelligence) under the supervision of [Leslie Valiant](https://people.seas.harvard.edu/~valiant/), Harvard University  
-  education3: B.Sc. in Computer Science with a minor degree in Mathematics, University of Cyprus
-  education4: Republic of Cyprus Presidential Award 2002
-  education5: [details](https://www.ouc.ac.cy/index.php/en/profiles/loizos-michael)
-
 - name: Jiasen Niu
   photo: Jiasen.png
   info: Leader Leiden Branch, started Oct 2020

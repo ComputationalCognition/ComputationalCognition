@@ -1,14 +1,14 @@
 
-- name: Loizos Michael
+- name: <a href="https://www.ouc.ac.cy/index.php/en/profiles/loizos-michael">Loizos Michael</a>
   photo: Loizos.jpeg
   info: Professor, Director of Computational Cognition Lab
   email: loizos@ouc.ac.cy
-  number_educ: 5
+  number_educ: 4
   education1: Academic Coordinator of the Joint M.Sc. Programme in Cognitive Systems
   education2: Founding member of the CYENS Research Centre of Excellence - leader of the research pillar on Artificial Intelligence and Communications
   education3: M.Sc. & Ph.D. in Computer Science (Artificial Intelligence) under the supervision of <a href="https://people.seas.harvard.edu/~valiant/">Leslie Valiant</a>, Harvard University  
   education4: B.Sc. in Computer Science with a minor degree in Mathematics, University of Cyprus
-  education5: <a href="https://www.ouc.ac.cy/index.php/en/profiles/loizos-michael">details</a>
+  education5: <!-- publications -->
 
 - name: Jiasen Niu
   photo: Jiasen.png

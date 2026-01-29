@@ -1,7 +1,7 @@
 - name: Loizos Michael
   photo: Loizos.jpeg
   info: Professor, Head of Computational Cognition Lab
-  email: Loizos@ouc.ac.cy
+  email: loizos@ouc.ac.cy
   number_educ: 5
   education1: visiting professor, University of Cyprus
   education2: M.Sc. & Ph.D. in Computer Science (Artificial Intelligence) under the supervision of [Leslie Valiant](https://people.seas.harvard.edu/~valiant/), Harvard University  
@@ -45,11 +45,11 @@
   education3: B.Sc. in Computer Science, University of Cyprus
 
 
-#- name: "This could be you !"
-#  photo: rock.jpg
-#  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-#  email: milan.allan@gmail.com
-#  number_educ: 0
-#  education1:
-#  education2:
-#  education3:
+- name: "This could be you !"
+  photo: rock.jpg
+  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+  email: milan.allan@gmail.com
+  number_educ: 0
+  education1:
+  education2:
+  education3:
